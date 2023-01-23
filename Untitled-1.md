@@ -1,4 +1,4 @@
-# GCP Makarios Nassef
+# GCP 
 # DAY 4
 # lab 3.2
 
