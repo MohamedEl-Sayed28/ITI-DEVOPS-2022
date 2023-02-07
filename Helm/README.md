@@ -1,1 +1,1 @@
-# simple helm constructions for Bakehouse website 
+# simple helm constructions for a Bakehouse website 
