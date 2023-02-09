@@ -14,10 +14,10 @@
 ![image](https://user-images.githubusercontent.com/101838529/217671474-c1166d48-a4da-4e2f-89f3-652c27835027.png)
 
 ## integrate SonarQube with Jenkins - Apply Jenkins on K8S useing Helm to deploy
-![image](https://user-images.githubusercontent.com/101838529/217673496-c488c3b7-55de-487f-97aa-12826d09ce86.png)
-![image](https://user-images.githubusercontent.com/101838529/217673275-da8e3ed8-e963-4a08-b0d6-95393c3cd2f2.png)
-![image](https://user-images.githubusercontent.com/101838529/217673681-070fff4b-f916-44a7-8fa7-8c6814a3645f.png)
-![image](https://user-images.githubusercontent.com/101838529/217673961-478a2c96-5d32-436c-8ad3-f284f3216c5c.png)
+![image](https://user-images.githubusercontent.com/101838529/217941812-21e57d73-96f7-4a98-bcb8-6b21834a99a9.png)
+![image](https://user-images.githubusercontent.com/101838529/217941964-30cc4d09-4135-40cf-8755-cf50f7b38904.png)
+![image](https://user-images.githubusercontent.com/101838529/217944362-138e3bd4-2a88-4502-a0f9-af965d3be343.png)
+![image](https://user-images.githubusercontent.com/101838529/217944739-78e85804-f4a9-48b9-b640-db1df2ceb3b0.png)
 
 ## Pipeline
 ![image](https://user-images.githubusercontent.com/101838529/217940578-ea780c0b-e755-45d4-a775-5a01351cd386.png)
