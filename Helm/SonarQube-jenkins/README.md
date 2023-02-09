@@ -19,3 +19,9 @@
 ![image](https://user-images.githubusercontent.com/101838529/217673681-070fff4b-f916-44a7-8fa7-8c6814a3645f.png)
 ![image](https://user-images.githubusercontent.com/101838529/217673961-478a2c96-5d32-436c-8ad3-f284f3216c5c.png)
 
+## Pipeline
+![image](https://user-images.githubusercontent.com/101838529/217940578-ea780c0b-e755-45d4-a775-5a01351cd386.png)
+![image](https://user-images.githubusercontent.com/101838529/217940797-343330a8-e80d-424a-99ef-9c4015bb0cd1.png)
+![image](https://user-images.githubusercontent.com/101838529/217940898-adbcab92-4ebd-4dcf-97fb-eab982048701.png)
+![image](https://user-images.githubusercontent.com/101838529/217941050-c43fc661-42b9-45f2-b335-a121616a6ed5.png)
+
